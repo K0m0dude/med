@@ -315,7 +315,7 @@ protocols: >
   - **Trastuzumab cardiotoxicity** – baseline and 3-monthly LVEF monitoring.
 
 
-  > Red flag:Inflammatory breast cancer and Paget's disease are both frequently
+  > Red flag: Inflammatory breast cancer and Paget's disease are both frequently
   mistaken for benign/infective skin conditions – treatment that doesn't settle
   needs an urgent breast clinic referral, not a repeat course of the same thing.
 ---
