@@ -290,7 +290,7 @@ treatment: >+
   - **Outcomes**: median survival often quoted as ~**2 years**, range weeks to
   >20 years – over **20%** survive beyond 5 years.
 
-protocols: >+
+protocols: >
   - Most acute oncological emergencies here are generic to solid tumours – see
   the **Cancer and oncology emergencies** factfile (Acute medicine) for full
   management of neutropenic sepsis, MSCC, hypercalcaemia, SVCO and tumour lysis.
@@ -315,7 +315,7 @@ protocols: >+
   - **Trastuzumab cardiotoxicity** – baseline and 3-monthly LVEF monitoring.
 
 
-  > inflammatory breast cancer and Paget's disease are both frequently mistaken
-  for benign/infective skin conditions – treatment that doesn't settle needs an
-  urgent breast clinic referral, not a repeat course of the same thing.
+  > Red flag:Inflammatory breast cancer and Paget's disease are both frequently
+  mistaken for benign/infective skin conditions – treatment that doesn't settle
+  needs an urgent breast clinic referral, not a repeat course of the same thing.
 ---
