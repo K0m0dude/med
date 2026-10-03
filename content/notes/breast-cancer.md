@@ -290,31 +290,30 @@ treatment: >+
   - **Outcomes**: median survival often quoted as ~**2 years**, range weeks to
   >20 years – over **20%** survive beyond 5 years.
 
-protocols: >+
-  > - Most acute oncological emergencies here are generic to solid tumours – see
+protocols: >
+  - Most acute oncological emergencies here are generic to solid tumours – see
   the **Cancer and oncology emergencies** factfile (Acute medicine) for full
   management of neutropenic sepsis, MSCC, hypercalcaemia, SVCO and tumour lysis.
   The points below are breast-specific flags.
 
-  > - **Hypercalcaemia** is relatively common with bone-dominant metastatic
+  - **Hypercalcaemia** is relatively common with bone-dominant metastatic
   disease – check corrected calcium in anyone with known bone mets and new
   non-specific symptoms.
 
-  > - **Metastatic spinal cord compression** – new back pain in anyone with a
+  - **Metastatic spinal cord compression** – new back pain in anyone with a
   breast cancer history is spinal metastasis until proven otherwise; any limb
   weakness, sensory level or sphincter disturbance needs an urgent whole-spine
   MRI and dexamethasone.
 
-  > - **Brain metastases** – new headache, seizure, focal neurology or
-  personality change needs urgent CT/MRI head; more common with HER2+ and
-  triple-negative disease.
+  - **Brain metastases** – new headache, seizure, focal neurology or personality
+  change needs urgent CT/MRI head; more common with HER2+ and triple-negative
+  disease.
 
-  > - **Neutropenic sepsis** – fever during/after chemotherapy needs antibiotics
+  - **Neutropenic sepsis** – fever during/after chemotherapy needs antibiotics
   within 1 hour; don't wait for the neutrophil count.
 
-  > - **Trastuzumab cardiotoxicity** – baseline and 3-monthly LVEF monitoring.
+  - **Trastuzumab cardiotoxicity** – baseline and 3-monthly LVEF monitoring.
 
-  >
 
   > > Red flag: inflammatory breast cancer and Paget's disease are both
   frequently mistaken for benign/infective skin conditions – treatment that
