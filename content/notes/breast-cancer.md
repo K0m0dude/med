@@ -233,11 +233,11 @@ treatment: >+
   triple-negative tumours, to downstage and assess in-vivo response.
 
 
-  > **Quiz Q3's key message**: adjuvant decisions balance baseline relapse risk
-  against the risks of a given treatment. A treatment that cuts relative risk by
-  40% makes only a **2%** absolute difference to someone with a 5% baseline
-  risk, but a **24%** absolute difference to someone with a 60% baseline risk –
-  same relative benefit, very different absolute benefit.
+  > Adjuvant decisions balance baseline relapse risk against the risks of a
+  given treatment. A treatment that cuts relative risk by 40% makes only a
+  **2%** absolute difference to someone with a 5% baseline risk, but a **24%**
+  absolute difference to someone with a 60% baseline risk – same relative
+  benefit, very different absolute benefit.
 
 
   - **Endocrine therapy** (ER+): **tamoxifen** (pre-/peri-menopausal) or an
