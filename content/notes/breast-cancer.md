@@ -291,10 +291,6 @@ treatment: >+
   >20 years – over **20%** survive beyond 5 years.
 
 protocols: >+
-  > #### Emergency protocols and red flags
-
-  >
-
   > - Most acute oncological emergencies here are generic to solid tumours – see
   the **Cancer and oncology emergencies** factfile (Acute medicine) for full
   management of neutropenic sepsis, MSCC, hypercalcaemia, SVCO and tumour lysis.
