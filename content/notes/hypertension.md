@@ -66,6 +66,11 @@ investigations: >+
   metanephrines, renal artery imaging, cortisol tests, thyroid tests, sleep
   study.
 
+  > Quick-reference: Conn’s → aldosterone:renin ratio (Adrenal disorders card);
+  phaeochromocytoma → plasma free metanephrines (Adrenal disorders card);
+  Cushing’s → overnight dexamethasone suppression test (Adrenal disorders card);
+  thyroid disease → TSH (Hyper-/Hypothyroidism cards).
+
 treatment: >+
   - **Hypertensive emergency:** admit to a monitored area (HDU or ICU). **IV
   labetalol** (or GTN for pulmonary oedema or ACS, nicardipine, sodium
@@ -104,4 +109,8 @@ protocols: >+
 
   - Severe hypertension with headache, visual loss, chest pain or neurology
   means urgent senior review. **NICE NG136.**
+
+  - **Suspect a secondary endocrine cause** in: resistant hypertension (despite
+  3 drugs), hypertension with hypokalaemia, hypertension at a young age, an
+  adrenal incidentaloma, or episodic symptoms (headache/sweating/palpitations).
 ---
