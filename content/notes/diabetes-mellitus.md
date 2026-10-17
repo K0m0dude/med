@@ -52,7 +52,7 @@ background: >+
     **Diabetic foot ulcer**: refer to the **multidisciplinary foot care service** for any new ulceration, spreading infection, or suspected Charcot foot. Management centres on **debridement and offloading** (pressure removal is at least as important as the dressing used) plus treating infection (oral antibiotics for mild infection; IV antibiotics and urgent surgical/vascular assessment for limb-threatening infection) and assessing for revascularisation if ischaemia is contributing.
     > Red flag: a **hot, swollen, often painless foot** in someone with diabetic neuropathy is **Charcot neuroarthropathy** until proven otherwise — easily mistaken for cellulitis or gout. Plain X-ray can be normal early (MRI is more sensitive). Treatment is **immediate non-weight-bearing and offloading** (total contact cast), **not antibiotics** unless genuinely infected — treating it as cellulitis without offloading allows progressive joint destruction and deformity. NICE NG19 specifies referral to the multidisciplinary foot service **within 1 working day**, with triage within a further working day.
 
-    **Other complications, briefly** (cross-referencing where you already have a card):
+    **Other complications**:
     - **Retinopathy**: annual digital photographic screening from diagnosis (T2DM) — background → pre-proliferative → proliferative, plus maculopathy; pan-retinal photocoagulation for proliferative disease, anti-VEGF injections for diabetic macular oedema.
     - **Nephropathy**: annual urine ACR and eGFR; ACEi/ARB if ACR is raised (even if normotensive), with an SGLT2 inhibitor added for renal protection — see the Chronic kidney disease factfile (Acute medicine).
     - **Painful peripheral neuropathy** (NICE NG173): amitriptyline, duloxetine, gabapentin or pregabalin — try one, switch rather than combine if ineffective; tramadol as rescue only.
@@ -282,7 +282,7 @@ treatment: >+
   > - **Sick-day rules**: never stop insulin when unwell — requirements often
   *increase*; check ketones if glucose is persistently high.
 
-protocols: >+
+protocols: >
   - **JBDS DKA guideline** (adults) and the local DKA integrated care pathway.
   **JBDS HHS** and **hypoglycaemia** guidelines. **VRIII** pathway for surgical
   and NBM patients.
