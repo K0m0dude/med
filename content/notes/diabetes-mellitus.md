@@ -277,7 +277,7 @@ treatment: >+
   > - Insulin is a high-risk medication: always write “**units**” in full (never
   “U” — “10U” has been misread as “100”), and never omit an inpatient’s basal
   insulin even when nil by mouth — switch to a **variable-rate IV insulin
-  infusion** instead (see your existing Diabetes card).
+  infusion** instead.
 
   > - **Sick-day rules**: never stop insulin when unwell — requirements often
   *increase*; check ketones if glucose is persistently high.
