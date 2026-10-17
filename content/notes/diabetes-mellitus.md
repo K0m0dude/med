@@ -4,7 +4,7 @@ specialty:
   - content/specialties/acute-medicine.md
   - content/specialties/endocrinology.md
 category: content/categories/endocrine.md
-short: Diabetes and DKA
+short: Diabetes and complications
 keywords: type 1 type 2 dka hhs hypoglycaemia pancreatic type 3c insulin ketones
 order: 10
 draft: false
@@ -36,9 +36,28 @@ background: >+
   - **HHS:** severe hyperglycaemia and dehydration with enough insulin to
   suppress ketosis. Older T2DM patients, developing over days, high mortality.
 
-  - Complications: micro- (retinopathy, nephropathy, neuropathy) and
-  macrovascular (IHD, stroke, PAD). Diabetic foot disease is a major cause of
-  admission.
+
+  ### Complications
+
+
+  - **Mechanism**: diabetic foot disease results from three things acting
+  together — **peripheral neuropathy** (sensory loss → unnoticed injury; motor →
+  small muscle wasting and deformity; autonomic → dry, cracked skin and abnormal
+  blood flow), **peripheral arterial disease** (impaired healing, risk of
+  critical limb ischaemia), and impaired infection control from hyperglycaemia
+  itself.
+
+    **Screening (NICE NG19)**: annual foot assessment for everyone with diabetes — 10 g monofilament and vibration sense (neuropathy), foot pulses (vascular), and skin/deformity/footwear check — stratified into **low / moderate / high risk**, or **“active”** if an ulcer or infection is already present, which sets the review frequency and whether a foot protection service is involved.
+
+    **Diabetic foot ulcer**: refer to the **multidisciplinary foot care service** for any new ulceration, spreading infection, or suspected Charcot foot. Management centres on **debridement and offloading** (pressure removal is at least as important as the dressing used) plus treating infection (oral antibiotics for mild infection; IV antibiotics and urgent surgical/vascular assessment for limb-threatening infection) and assessing for revascularisation if ischaemia is contributing.
+    > Red flag: a **hot, swollen, often painless foot** in someone with diabetic neuropathy is **Charcot neuroarthropathy** until proven otherwise — easily mistaken for cellulitis or gout. Plain X-ray can be normal early (MRI is more sensitive). Treatment is **immediate non-weight-bearing and offloading** (total contact cast), **not antibiotics** unless genuinely infected — treating it as cellulitis without offloading allows progressive joint destruction and deformity. NICE NG19 specifies referral to the multidisciplinary foot service **within 1 working day**, with triage within a further working day.
+
+    **Other complications, briefly** (cross-referencing where you already have a card):
+    - **Retinopathy**: annual digital photographic screening from diagnosis (T2DM) — background → pre-proliferative → proliferative, plus maculopathy; pan-retinal photocoagulation for proliferative disease, anti-VEGF injections for diabetic macular oedema.
+    - **Nephropathy**: annual urine ACR and eGFR; ACEi/ARB if ACR is raised (even if normotensive), with an SGLT2 inhibitor added for renal protection — see the Chronic kidney disease factfile (Acute medicine).
+    - **Painful peripheral neuropathy** (NICE NG173): amitriptyline, duloxetine, gabapentin or pregabalin — try one, switch rather than combine if ineffective; tramadol as rescue only.
+    - **Autonomic neuropathy**: gastroparesis (erratic glucose control, early satiety — prokinetics), postural hypotension, erectile dysfunction, gustatory sweating.
+    - **Macrovascular disease** (IHD, stroke, PAD)
 
 diagnosis: >+
   > **Diagnostic criteria:** symptoms plus random glucose ≥11.1 mmol/L, or
@@ -170,6 +189,98 @@ treatment: >+
 
   - **Pancreatic diabetes:** low-dose insulin with caution, pancreatic enzyme
   replacement, and avoid alcohol.
+
+
+  > ## Insulin
+
+  >
+
+  > **Insulin types and regimens**
+
+  >
+
+  > - **Rapid-acting analogues** (insulin aspart, lispro, glulisine) — onset ~15
+  min, given with meals (“bolus”); **long-acting analogues** (glargine, detemir,
+  degludec) — flat profile, once or twice daily (“basal”); **intermediate-acting
+  (isophane/NPH)** — older, peaked profile, still used once/twice daily,
+  especially in T2DM; **biphasic/mixed** (e.g. biphasic aspart) — fixed
+  rapid:intermediate ratio, twice daily, simpler but less flexible.
+
+  > - **Basal-bolus (multiple daily injection, MDI)** is **NICE’s regimen of
+  choice for all adults with T1DM**: one or two daily basal injections plus a
+  rapid-acting bolus with each meal, adjusted meal-by-meal.
+
+  > - **Continuous subcutaneous insulin infusion (CSII/pump)**: rapid-acting
+  insulin only, continuous basal rate plus patient-triggered boluses. **Hybrid
+  closed-loop (“artificial pancreas”) systems** — a pump linked to a continuous
+  glucose monitor via an algorithm that auto-adjusts basal delivery — are now
+  recommended by NICE (TA943) as an option for adults with T1DM, with a 5-year
+  national rollout; many services currently prioritise access by HbA1c ≥58
+  mmol/mol or disabling hypoglycaemia despite optimised MDI/CSII + CGM, while
+  availability broadens.
+
+  > - **T2DM starting insulin**: usually NPH (isophane) added to existing oral
+  agents is the traditional first step, though a long-acting analogue is often
+  preferred if hypoglycaemia risk is a concern or someone else administers the
+  injections; basal-bolus is reserved for inadequate control on basal insulin
+  alone.
+
+  >
+
+  > **Dosing and titration**
+
+  >
+
+  > - Typical **total daily dose**: ~0.2–0.4 units/kg/day at diagnosis of T1DM
+  (often lower during the “honeymoon” period), rising to **0.5–1.0
+  units/kg/day** in established disease. Requirements **>1 unit/kg/day** suggest
+  insulin resistance (obesity, infection, steroids, puberty) rather than a
+  dosing error.
+
+  > - A common starting split in basal-bolus regimens is roughly **50% basal /
+  50% bolus** (bolus divided across meals), then individualised.
+
+  > - Titrate by **10–20% increments**, no more than every 2–3 days, based on
+  home glucose patterns: a high **fasting/pre-meal** reading reflects the
+  **basal** dose; a high **post-prandial/pre-next-meal** reading reflects the
+  preceding **bolus** dose.
+
+  > - Structured education (**DAFNE** for T1DM) teaches carbohydrate-counting
+  and an individualised **insulin:carbohydrate ratio** plus a **correction
+  factor** (how much 1 unit lowers glucose), allowing flexible rather than fixed
+  bolus dosing — NICE recommends offering this to everyone with T1DM.
+
+  >
+
+  > **How “adequate” control is judged clinically**
+
+  >
+
+  > - **HbA1c target**: ≤48 mmol/mol (6.5%) for T1DM where achievable without
+  problematic hypoglycaemia; individualised and often less tight for T2DM or
+  frailty.
+
+  > - **Capillary/CGM glucose targets** (T1DM): fasting/pre-meal **4–7 mmol/L**,
+  post-meal **5–9 mmol/L**.
+
+  > - **Continuous/flash glucose monitoring** is now standard of care for T1DM
+  and adds **“time in range”** (3.9–10 mmol/L, target >70%) as a metric that
+  HbA1c alone can miss — particularly useful for spotting a hypoglycaemia
+  pattern hidden behind an apparently good average.
+
+  >
+
+  > **Safety**
+
+  >
+
+  > - Insulin is a high-risk medication: always write “**units**” in full (never
+  “U” — “10U” has been misread as “100”), and never omit an inpatient’s basal
+  insulin even when nil by mouth — switch to a **variable-rate IV insulin
+  infusion** instead (see your existing Diabetes card).
+
+  > - **Sick-day rules**: never stop insulin when unwell — requirements often
+  *increase*; check ketones if glucose is persistently high.
 
 protocols: >+
   - **JBDS DKA guideline** (adults) and the local DKA integrated care pathway.
