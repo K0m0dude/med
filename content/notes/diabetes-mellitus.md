@@ -6,6 +6,7 @@ specialty:
 category: content/categories/endocrine.md
 short: Diabetes and complications
 keywords: type 1 type 2 dka hhs hypoglycaemia pancreatic type 3c insulin ketones
+  type 5 foot
 order: 10
 draft: false
 pinned: false
