@@ -23,11 +23,20 @@ background: >+
   - **Pancreatic (type 3c) diabetes:** loss of islet cells after chronic
   pancreatitis, pancreatic cancer or pancreatectomy, cystic fibrosis,
   haemochromatosis. Both **insulin and glucagon** are lost, so it is brittle
-  with a high risk of hypoglycaemia. Exocrine failure is common (steatorrhoea,
+  with a high risk of hypoglycaemia. Exocrine failure is common (steatorrhea,
   weight loss, needs pancreatic enzyme replacement such as Creon).
 
+  - **Gestational diabetes:** Gestational diabetes is diabetes that can develop
+  during pregnancy. It affects women who haven't been affected by diabetes
+  before and usually goes away again after giving birth. It is diagnosed 24 to
+  28 weeks into pregnancy.
+
+  - **Type 5 diabetes:** Formerly known as malnutrition-related diabetes
+  mellitus, or MRDM. It stems from severe chronic childhood or foetal
+  undernutrition that stunts proper pancreatic development and insulin capacity.
+
   - Other causes: steroids, Cushing's, acromegaly, thiazides, antipsychotics,
-  checkpoint inhibitors (autoimmune diabetes and DKA).
+  checkpoint inhibitors (autoimmune diabetes and DKA), MODY, neonatal diabetes.
 
   - **DKA:** insulin deficiency with counter-regulatory hormone excess leads to
   hyperglycaemia, ketone production, osmotic diuresis, dehydration and metabolic
