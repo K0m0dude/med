@@ -20,7 +20,6 @@ background: >+
 
   ### Adrenal incidentaloma
 
-
   - An adrenal mass found on imaging done for another reason. Prevalence
   **2–3%** of CT scans, rising with age. **85%** are non-functioning adenomas;
   the rest secrete hormone (subclinical Cushing's, Conn's, phaeochromocytoma)
@@ -30,7 +29,6 @@ background: >+
 
 
   ### Primary hyperaldosteronism (Conn's syndrome)
-
 
   - Autonomous aldosterone production (adenoma, or bilateral adrenal
   hyperplasia) independent of the renin-angiotensin system. The **commonest
@@ -42,7 +40,6 @@ background: >+
 
 
   ### Phaeochromocytoma (and paraganglioma)
-
 
   - A catecholamine-secreting tumour of adrenal medullary chromaffin cells
   (paraganglioma = the same tumour at an extra-adrenal site, e.g. organ of
@@ -57,7 +54,6 @@ background: >+
 
   ### Cushing's syndrome and Cushing's disease
 
-
   - **Cushing's syndrome** = any cause of chronic glucocorticoid excess.
   **Cushing's disease** = the specific case where the cause is an ACTH-secreting
   pituitary adenoma — the commonest endogenous cause. - **Exogenous (iatrogenic)
@@ -70,7 +66,6 @@ background: >+
 
 
   ### Addison's disease (primary adrenal insufficiency)
-
 
   - Destruction of the adrenal cortex → deficiency of **both cortisol and
   aldosterone** (± adrenal androgens). **Autoimmune adrenalitis is the commonest
@@ -85,8 +80,7 @@ background: >+
   anaemia, vitiligo, premature ovarian failure, hypoparathyroidism.
 
 diagnosis: >+
-  ###Primary hyperaldosteronism
-
+  ### Primary hyperaldosteronism
 
   - Suspect in: hypertension resistant to 3 drugs, hypertension with spontaneous
   or diuretic-induced hypokalaemia, hypertension with an adrenal incidentaloma,
@@ -96,7 +90,6 @@ diagnosis: >+
 
 
   ### Phaeochromocytoma
-
 
   - Classic triad: **episodic headache, sweating, palpitations** — often with
   pallor and anxiety, lasting under an hour, precipitated by exertion, abdominal
@@ -109,7 +102,6 @@ diagnosis: >+
 
   ### Cushing's syndrome
 
-
   - Central obesity, moon face, plethora, buffalo hump, **proximal myopathy**,
   thin skin with easy bruising, **purple striae** (wide, >1 cm, suggest
   Cushing's rather than simple obesity), hirsutism/acne, hypertension, impaired
@@ -121,7 +113,6 @@ diagnosis: >+
 
 
   ### Addison's disease
-
 
   > Fatigue, anorexia and weight loss, postural dizziness, nausea, vomiting,
   abdominal pain, salt craving, and **hyperpigmentation** (palmar creases,
@@ -136,8 +127,7 @@ diagnosis: >+
   medication in someone already borderline.
 
 investigations: >+
-  Adrenal incidentaloma
-
+  ### Adrenal incidentaloma
 
   - **Dedicated adrenal CT**: homogeneous, **Hounsfield units (HU) ≤10** on
   unenhanced CT = lipid-rich, almost certainly a benign adenoma, regardless of
@@ -152,7 +142,6 @@ investigations: >+
 
   ### Primary hyperaldosteronism
 
-
   - **Screen**: plasma aldosterone:renin ratio (ARR) — high aldosterone with
   suppressed renin. Stop interfering drugs first where possible (spironolactone,
   eplerenone; high-dose ACEi/ARB/β-blocker can also distort it) — use an
@@ -166,7 +155,6 @@ investigations: >+
 
   ### Phaeochromocytoma
 
-
   - **Plasma free metanephrines** (most sensitive, ~97%) or 24-hour urinary
   fractionated metanephrines and catecholamines. Avoid during an acute stressor
   if possible (false positives). CT or MRI to localise; **MIBG scintigraphy** if
@@ -175,7 +163,6 @@ investigations: >+
 
 
   ### Cushing's syndrome
-
 
   - **Two** separate positive screening tests needed from: **1 mg overnight
   dexamethasone suppression test** (failure to suppress <50 nmol/L), **24-hour
@@ -192,7 +179,6 @@ investigations: >+
 
   ### Addison's disease
 
-
   - **9 am serum cortisol**: <100 nmol/L makes adrenal insufficiency likely;
   >450–500 nmol/L makes it very unlikely; anywhere in between needs a **short
   Synacthen test** (250 micrograms IM/IV tetracosactide; cortisol <450–500
@@ -205,8 +191,7 @@ investigations: >+
   secondary/tertiary (low/normal ACTH) once a low cortisol is confirmed.
 
 treatment: >+
-  Incidentaloma
-
+  ### Incidentaloma
 
   - Non-functioning, <4 cm, benign imaging features: no surgery — repeat imaging
   and hormonal work-up at 6–12 months, then stop if stable. Functioning tumours,
@@ -223,7 +208,8 @@ treatment: >+
   spironolactone's anti-androgenic side effects — gynaecomastia, impotence — are
   not tolerated).
 
-  Phaeochromocytoma
+
+  ### Phaeochromocytoma
 
   - **Surgery is curative but can precipitate a catecholamine crisis if not
   properly prepared for.** **α-blockade first** (phenoxybenzamine, titrated over
@@ -235,7 +221,8 @@ treatment: >+
   biochemical surveillance given recurrence/metachronous tumour risk, especially
   in hereditary disease.
 
-  Cushing's syndrome
+
+  ### Cushing's syndrome
 
   - **Cushing's disease**: trans-sphenoidal pituitary surgery first-line.
   **Adrenal adenoma/carcinoma**: adrenalectomy. **Ectopic ACTH**: treat the
@@ -247,7 +234,8 @@ treatment: >+
   remaining HPA axis is suppressed — wean slowly under specialist guidance,
   watching for recovery.
 
-  Addison's disease
+
+  ### Addison's disease
 
   - **Glucocorticoid + mineralocorticoid replacement** in primary disease:
   **hydrocortisone 15–25 mg/day in 2–3 divided doses** (larger dose on waking,
@@ -260,7 +248,7 @@ treatment: >+
   alert jewellery, and an emergency hydrocortisone injection kit with training
   for the patient (and family) on how to use it.
 
-protocols: >+
+protocols: >
   Addisonian (adrenal) crisis
 
 
