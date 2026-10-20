@@ -63,16 +63,17 @@ diagnosis: >+
   - Ask about the **tempo**: sudden onset suggests a vascular event (stroke,
   retinal artery/vein occlusion, pituitary apoplexy) or giant cell arteritis;
   gradual onset over weeks to months suggests a slowly growing mass (pituitary
-  adenoma, meningioma, glioma). - **Associated features help localise further**:
-  a headache with a bitemporal hemianopia and other pituitary hormone symptoms
-  points to a sellar/suprasellar mass (see the Pituitary disorders card); a
-  painful third nerve palsy alongside sudden visual loss and headache suggests
-  pituitary apoplexy or, classically, a posterior communicating artery aneurysm;
-  limb weakness or sensory loss alongside a homonymous hemianopia points to a
-  larger vascular territory (e.g. MCA) rather than an isolated visual pathway
-  lesion; jaw claudication, scalp tenderness and a raised ESR/CRP alongside
-  sudden monocular visual loss in an older patient point to giant cell
-  arteritis.
+  adenoma, meningioma, glioma).
+
+  - - **Associated features help localise further**: a headache with a
+  bitemporal hemianopia and other pituitary hormone symptoms points to a
+  sellar/suprasellar mass (see the Pituitary disorders card); a painful third
+  nerve palsy alongside sudden visual loss and headache suggests pituitary
+  apoplexy or, classically, a posterior communicating artery aneurysm; limb
+  weakness or sensory loss alongside a homonymous hemianopia points to a larger
+  vascular territory (e.g. MCA) rather than an isolated visual pathway lesion;
+  jaw claudication, scalp tenderness and a raised ESR/CRP alongside sudden
+  monocular visual loss in an older patient point to giant cell arteritis.
 
 investigations: >+
   - **MRI brain with pituitary views** is the key investigation whenever a
@@ -126,12 +127,12 @@ protocols: >+
   hypopituitarism (collapse, hypotension) is **pituitary apoplexy** until proven
   otherwise — see the emergency protocol in the Pituitary disorders card.
 
-  - - A new visual field defect with limb weakness, speech disturbance, or
-  facial droop is an acute stroke presentation — follow the local hyperacute
-  stroke pathway (Stroke and TIA factfile, Acute medicine), not a routine
-  ophthalmology referral.
+  - A new visual field defect with limb weakness, speech disturbance, or facial
+  droop is an acute stroke presentation — follow the local hyperacute stroke
+  pathway (Stroke and TIA factfile, Acute medicine), not a routine ophthalmology
+  referral.
 
-  - - Sudden painless monocular visual loss in anyone over 50, especially with
+  - Sudden painless monocular visual loss in anyone over 50, especially with
   scalp tenderness, jaw claudication or malaise, needs same-day assessment for
   giant cell arteritis and urgent high-dose steroids if suspected — delay risks
   irreversible bilateral blindness.
