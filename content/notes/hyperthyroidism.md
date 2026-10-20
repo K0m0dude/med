@@ -46,12 +46,11 @@ diagnosis: >+
   especially in older patients), anxiety and irritability, diarrhoea,
   oligo/amenorrhoea, and proximal muscle weakness.
 
-  - - Signs: fine tremor, warm moist skin, lid lag and lid retraction
-  (sympathetic overactivity — occurs in any cause of thyrotoxicosis),
-  tachycardia, a goitre (diffuse in Graves', nodular in toxic MNG, tender in
-  subacute thyroiditis).
+  - Signs: fine tremor, warm moist skin, lid lag and lid retraction (sympathetic
+  overactivity — occurs in any cause of thyrotoxicosis), tachycardia, a goitre
+  (diffuse in Graves', nodular in toxic MNG, tender in subacute thyroiditis).
 
-  - - **Graves'-specific eye disease** (not seen in other causes):
+  - **Graves'-specific eye disease** (not seen in other causes):
   proptosis/exophthalmos, periorbital oedema, conjunctival injection, and in
   severe cases, diplopia or reduced visual acuity from optic nerve compression
   (an ophthalmology emergency) — this is immune-mediated orbital inflammation,
@@ -62,18 +61,18 @@ investigations: >+
   cause; **TSH not suppressed** (normal or high) with a high T4 points to
   secondary (TSH-secreting adenoma) disease — image the pituitary.
 
-  - - **TRAb (TSH-receptor antibody)**: positive in **~90%** of Graves' disease
-  — the single most useful test to confirm Graves' without needing a radioiodine
+  - **TRAb (TSH-receptor antibody)**: positive in **~90%** of Graves' disease —
+  the single most useful test to confirm Graves' without needing a radioiodine
   uptake scan in most cases. TPO antibodies are less specific (also positive in
   Hashimoto's).
 
-  - - **Radioiodine uptake scan** differentiates causes when the picture is
+  - **Radioiodine uptake scan** differentiates causes when the picture is
   unclear: diffusely **increased** uptake (Graves'), focally **increased**
   uptake (toxic adenoma/MNG), or **decreased/absent** uptake (thyroiditis, or
   exogenous thyroid hormone) — useful because thyroiditis needs no antithyroid
   drug and resolves on its own.
 
-  - - ECG for AF or other arrhythmia; FBC before starting an antithyroid drug
+  - ECG for AF or other arrhythmia; FBC before starting an antithyroid drug
   (baseline, given the agranulocytosis risk described below).
 
 treatment: >+
@@ -137,7 +136,7 @@ protocols: >+
   **Burch–Wartofsky score** supports the diagnosis but treatment should not be
   delayed for a formal score if the clinical picture fits.
 
-  - - **Treatment (give in this order, propylthiouracil before iodine)**:
+  - **Treatment (give in this order, propylthiouracil before iodine)**:
   supportive care and cooling for fever (avoid aspirin — it displaces thyroid
   hormone from binding proteins, worsening free hormone levels);
   **propylthiouracil** (preferred acutely — blocks new hormone synthesis **and**
@@ -149,7 +148,7 @@ protocols: >+
   adrenal insufficiency from the hypermetabolic state); and aggressive treatment
   of the precipitant (e.g. antibiotics for infection).
 
-  - - **Critical care/HDU level care**, with endocrinology involved early.
+  - **Critical care/HDU level care**, with endocrinology involved early.
   Plasmapheresis is a rescue option for severe, refractory cases.
 
 
