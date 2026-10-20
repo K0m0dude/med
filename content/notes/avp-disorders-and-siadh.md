@@ -169,7 +169,7 @@ treatment: >+
   vasospasm and ischaemia; isotonic fluids and specialist neurovascular input
   are used instead.
 
-protocols: >+
+protocols: >
   > Red flag: whatever the cause, **do not correct chronic hyponatraemia faster
   than 8–10 mmol/L in 24 hours** (see the Hyponatraemia and Fluid therapy cards)
   — overly rapid correction, even of SIADH, risks osmotic demyelination
