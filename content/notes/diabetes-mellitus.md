@@ -57,13 +57,11 @@ background: >+
   critical limb ischaemia), and impaired infection control from hyperglycaemia
   itself.
 
-
   - **Screening (NICE NG19)**: annual foot assessment for everyone with diabetes
   — 10 g monofilament and vibration sense (neuropathy), foot pulses (vascular),
   and skin/deformity/footwear check — stratified into **low / moderate / high
   risk**, or **“active”** if an ulcer or infection is already present, which
   sets the review frequency and whether a foot protection service is involved.
-
 
   - **Diabetic foot ulcer**: refer to the **multidisciplinary foot care
   service** for any new ulceration, spreading infection, or suspected Charcot
@@ -75,11 +73,24 @@ background: >+
     > Red flag: a **hot, swollen, often painless foot** in someone with diabetic neuropathy is **Charcot neuroarthropathy** until proven otherwise — easily mistaken for cellulitis or gout. Plain X-ray can be normal early (MRI is more sensitive). Treatment is **immediate non-weight-bearing and offloading** (total contact cast), **not antibiotics** unless genuinely infected — treating it as cellulitis without offloading allows progressive joint destruction and deformity. NICE NG19 specifies referral to the multidisciplinary foot service **within 1 working day**, with triage within a further working day.
 
     **Other complications**:
-    - **Retinopathy**: annual digital photographic screening from diagnosis (T2DM) — background → pre-proliferative → proliferative, plus maculopathy; pan-retinal photocoagulation for proliferative disease, anti-VEGF injections for diabetic macular oedema.
-    - **Nephropathy**: annual urine ACR and eGFR; ACEi/ARB if ACR is raised (even if normotensive), with an SGLT2 inhibitor added for renal protection — see the Chronic kidney disease factfile (Acute medicine).
-    - **Painful peripheral neuropathy** (NICE NG173): amitriptyline, duloxetine, gabapentin or pregabalin — try one, switch rather than combine if ineffective; tramadol as rescue only.
-    - **Autonomic neuropathy**: gastroparesis (erratic glucose control, early satiety — prokinetics), postural hypotension, erectile dysfunction, gustatory sweating.
-    - **Macrovascular disease** (IHD, stroke, PAD)
+  - **Retinopathy**: annual digital photographic screening from diagnosis (T2DM)
+  — background → pre-proliferative → proliferative, plus maculopathy;
+  pan-retinal photocoagulation for proliferative disease, anti-VEGF injections
+  for diabetic macular oedema.
+
+  - **Nephropathy**: annual urine ACR and eGFR; ACEi/ARB if ACR is raised (even
+  if normotensive), with an SGLT2 inhibitor added for renal protection — see the
+  Chronic kidney disease factfile (Acute medicine).
+
+  - **Painful peripheral neuropathy** (NICE NG173): amitriptyline, duloxetine,
+  gabapentin or pregabalin — try one, switch rather than combine if ineffective;
+  tramadol as rescue only.
+
+  - **Autonomic neuropathy**: gastroparesis (erratic glucose control, early
+  satiety — prokinetics), postural hypotension, erectile dysfunction, gustatory
+  sweating.
+
+  - **Macrovascular disease** (IHD, stroke, PAD)
 
 diagnosis: >+
   > **Diagnostic criteria:** symptoms plus random glucose ≥11.1 mmol/L, or
