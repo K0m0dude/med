@@ -23,8 +23,10 @@ background: >+
   - **Non-functioning adenoma**: the commonest type overall — secretes no
   clinically significant hormone, so usually presents late, through mass effect
   (visual field defect, headache) or incidental hypopituitarism, rather than
-  through a hormone-excess syndrome. - **Prolactinoma**: the commonest
-  *functioning* adenoma. Excess prolactin suppresses GnRH, causing hypogonadism.
+  through a hormone-excess syndrome.
+
+  - **Prolactinoma**: the commonest *functioning* adenoma. Excess prolactin
+  suppresses GnRH, causing hypogonadism.
 
   - **Acromegaly**: a GH-secreting adenoma (almost always a pituitary adenoma;
   very rarely ectopic GHRH). Insidious, since the physical changes develop over
