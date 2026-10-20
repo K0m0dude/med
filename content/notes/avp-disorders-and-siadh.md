@@ -128,12 +128,13 @@ treatment: >+
   - **Desmopressin** (DDAVP) — oral, sublingual, intranasal or subcutaneous/IM —
   titrated to urine output and plasma sodium. **Risk of dilutional hyponatraemia
   with over-treatment**, so start low and monitor sodium, especially when
-  starting or changing dose. - Post-pituitary-surgery DI is often transient —
-  avoid over-treating in the first few days, and watch for the classic
-  **"triple-phase response"** (initial transient DI from stalk trauma/oedema → a
-  few days of SIADH-like antidiuresis from uncontrolled hormone release by dying
-  axons → then either recovery or permanent DI), which needs close sodium
-  monitoring rather than fixed dosing.
+  starting or changing dose.
+
+  - Post-pituitary-surgery DI is often transient — avoid over-treating in the
+  first few days, and watch for the classic **"triple-phase response"** (initial
+  transient DI from stalk trauma/oedema → a few days of SIADH-like antidiuresis
+  from uncontrolled hormone release by dying axons → then either recovery or
+  permanent DI), which needs close sodium monitoring rather than fixed dosing.
 
 
   ### Nephrogenic DI
@@ -169,7 +170,7 @@ treatment: >+
   vasospasm and ischaemia; isotonic fluids and specialist neurovascular input
   are used instead.
 
-protocols: >
+protocols: >+
   > Red flag: whatever the cause, **do not correct chronic hyponatraemia faster
   than 8–10 mmol/L in 24 hours** (see the Hyponatraemia and Fluid therapy cards)
   — overly rapid correction, even of SIADH, risks osmotic demyelination
