@@ -33,7 +33,7 @@ background: >+
   association with cardiovascular disease.
 
 
-  ###Secondary and tertiary hyperparathyroidism
+  ### Secondary and tertiary hyperparathyroidism
 
 
   - **Secondary**: an appropriate PTH rise in response to chronic hypocalcaemia
@@ -76,7 +76,7 @@ background: >+
   turnover, not calcium metabolism).
 
 diagnosis: >+
-  ###Hypercalcaemia (general)
+  ### Hypercalcaemia (general)
 
 
   - "Bones, stones, groans and psychiatric moans": bone pain, renal
@@ -163,7 +163,7 @@ investigations: >+
   to map disease extent.
 
 treatment: >+
-  ###Primary hyperparathyroidism (NICE NG132)
+  ### Primary hyperparathyroidism (NICE NG132)
 
 
   - **Refer for parathyroidectomy** if: corrected calcium **≥2.85 mmol/L**, or
