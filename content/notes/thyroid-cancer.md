@@ -47,7 +47,7 @@ diagnosis: >+
   hormone excess or deficiency. Features raising suspicion: rapid growth, a
   hard/fixed mass, hoarse voice, dysphagia, and cervical lymphadenopathy.
 
-  - - **Medullary thyroid cancer** can occasionally present with symptoms from
+  - **Medullary thyroid cancer** can occasionally present with symptoms from
   calcitonin or co-secreted peptides (flushing, diarrhoea) rather than purely
   the local mass — and may coexist with the other MEN2 features
   (**phaeochromocytoma** — see the Adrenal disorders card — and primary
@@ -63,7 +63,7 @@ investigations: >+
   (malignant)** or **Thy3a/3f (atypia/follicular neoplasm)** result, confirmed
   on definitive histology after surgery, establishes the diagnosis and subtype.
 
-  - - **Suspected medullary thyroid cancer**: **serum calcitonin and CEA** (both
+  - **Suspected medullary thyroid cancer**: **serum calcitonin and CEA** (both
   tumour markers, useful for diagnosis, prognosis and follow-up), plus
   **calcium/PTH** and **plasma free metanephrines** (to exclude coexisting
   hyperparathyroidism and phaeochromocytoma before any surgery, since an
@@ -71,13 +71,13 @@ investigations: >+
   proto-oncogene testing** is performed in every confirmed case; first-degree
   relatives of a RET-positive patient are then offered testing themselves.
 
-  - - Staging (differentiated thyroid cancer): neck ultrasound for nodal
+  - Staging (differentiated thyroid cancer): neck ultrasound for nodal
   assessment; cross-sectional imaging (CT/MRI) or further staging is reserved
   for larger, more aggressive, or node/metastasis-suspicious disease, rather
   than used routinely for small low-risk tumours.
 
 treatment: >+
-  Differentiated thyroid cancer (papillary and follicular)
+  ### Differentiated thyroid cancer (papillary and follicular)
 
 
   - **Total (or near-total) thyroidectomy** is standard for most clinically
@@ -103,7 +103,9 @@ treatment: >+
   further imaging. Anti-thyroglobulin antibodies are checked alongside it, since
   their presence can make the thyroglobulin result unreliable.
 
-  Medullary thyroid cancer
+
+  ### Medullary thyroid cancer
+
 
   - **Total thyroidectomy with central compartment neck dissection** for
   confirmed disease >5 mm (radioiodine and TSH suppression are not useful here,
@@ -119,7 +121,9 @@ treatment: >+
   β-blockade) before thyroid surgery in MEN2** — operating on an unrecognised
   phaeochromocytoma risks a catecholamine crisis under anaesthesia.
 
-  Anaplastic thyroid cancer
+
+  ### Anaplastic thyroid cancer
+
 
   - Prognosis is poor; management is individualised and often combines **surgery
   (where feasible), radiotherapy and chemotherapy**, with an early focus on
