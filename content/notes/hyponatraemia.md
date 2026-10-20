@@ -36,7 +36,7 @@ diagnosis: >+
   cause of falls in older people). Severe or rapidly-developing: seizures,
   marked confusion, and reduced consciousness.
 
-  - - **Classify by clinical volume status** — this is the single most useful
+  - **Classify by clinical volume status** — this is the single most useful
   step, since it directs the differential and the fluid management are opposite
   in each group:
 
