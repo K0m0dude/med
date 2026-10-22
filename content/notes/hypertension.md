@@ -3,6 +3,7 @@ title: Hypertension
 specialty:
   - content/specialties/acute-medicine.md
   - content/specialties/cardiology.md
+  - content/specialties/endocrinology.md
 category: content/categories/cardiovascular.md
 short: Hypertension
 keywords: hypertension hypertensive emergency malignant labetalol secondary
@@ -65,6 +66,7 @@ investigations: >+
   - **Secondary causes:** renin and aldosterone (ARR), urinary or plasma
   metanephrines, renal artery imaging, cortisol tests, thyroid tests, sleep
   study.
+
 
   > Quick-reference: Conn’s → aldosterone:renin ratio (Adrenal disorders card);
   phaeochromocytoma → plasma free metanephrines (Adrenal disorders card);
