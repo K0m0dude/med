@@ -2,7 +2,7 @@
 title: Visual field defects
 specialty:
   - content/specialties/endocrinology.md
-category: content/categories/endocrine.md
+category: content/categories/ent-and-eyes.md
 short: Visual field defects
 keywords: visual field defect bitemporal hemianopia homonymous hemianopia
   quadrantanopia optic chiasm pituitary optic radiation macular sparing
