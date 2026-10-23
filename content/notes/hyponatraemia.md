@@ -2,7 +2,7 @@
 title: Hyponatraemia
 specialty:
   - content/specialties/endocrinology.md
-category: content/categories/endocrine.md
+category: content/categories/renal-and-urinary.md
 short: Hyponatraemia
 keywords: hyponatraemia hypovolaemic euvolaemic hypervolaemic serum osmolality
   sodium correction osmotic demyelination syndrome
