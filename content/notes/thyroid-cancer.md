@@ -2,7 +2,7 @@
 title: Thyroid cancer
 specialty:
   - content/specialties/endocrinology.md
-category: content/categories/endocrine.md
+category: content/categories/haem-and-oncology.md
 short: Thyroid cancer
 keywords: thyroid cancer papillary follicular medullary anaplastic men2 ret
   calcitonin thyroidectomy radioiodine tsh suppression thyroglobulin
