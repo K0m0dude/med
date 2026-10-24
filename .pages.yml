@@ -68,38 +68,38 @@ content:
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
       - name: diagnosis
         label: Diagnosis and clinical signs
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
       - name: investigations
         label: Investigations
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
       - name: treatment
         label: Treatment
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
       - name: protocols
         label: Emergency protocols and red flags
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
         description: "Shown in the orange box at the end of the card."
       - name: body
         label: Extra sections (optional, advanced)
         type: rich-text
         options:
           format: markdown
-          media: false
+          media: true
         description: "Start each extra section with a ## heading. It appears after the five standard sections."
 
   # ------------------------------------------------------------ specialties
