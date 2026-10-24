@@ -32,7 +32,6 @@ background: >+
   Others: **acral melanomas** occur on palms, soles, and subungual areas;
   **lentigo maligna melanoma** evolves from pre-existing lentigo maligna.
 
-
   - Squamous cell Carcinoma
     - Metastases are rare but may occur in 2-5% of patients.
     - Risk factors include:
@@ -57,13 +56,13 @@ diagnosis: |+
   | - Change in size - Change in shape - Change in colour | - Inflammation - Sensory change - Diameter >7mm(unless growth is in the vertical plane) - Crusting or bleeding |
 
 
+  ![](/media/image_2026-09-23_211108138.png)
+
   - Unexplained weight loss, fatigue, night-sweats, fever, ↓appetite, and DVT can be non-specific signs of cancer. Assess for any additional risk factors, symptoms, signs, and refer accordingly
 
-
-
+    
   - Squamous cell Carcinoma
     - Often recognised by dermatoscope before confirmation by biopsy.
-
   - Basal Cell Carcinoma
     - many types of BCC are described. The most common type is nodular BCC, which is described here
     - sun-exposed sites, especially the head and neck account for the majority of lesions
