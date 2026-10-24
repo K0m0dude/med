@@ -56,7 +56,7 @@ diagnosis: |+
   | - Change in size - Change in shape - Change in colour | - Inflammation - Sensory change - Diameter >7mm(unless growth is in the vertical plane) - Crusting or bleeding |
 
 
-  ![](/media/image_2026-09-23_211108138.png)
+  ![melanoma](/media/image_2026-09-23_211108138.png)
 
   - Unexplained weight loss, fatigue, night-sweats, fever, ↓appetite, and DVT can be non-specific signs of cancer. Assess for any additional risk factors, symptoms, signs, and refer accordingly
 
