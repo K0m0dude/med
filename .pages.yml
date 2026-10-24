@@ -1,6 +1,8 @@
 # Pages CMS configuration: this file turns the notes in this repository into a
 # simple form-based editor at https://app.pagescms.org
-media: media
+media:
+  input: media
+  output: https://k0m0dude.github.io/med/media
 
 content:
   # ------------------------------------------------------------------ notes
