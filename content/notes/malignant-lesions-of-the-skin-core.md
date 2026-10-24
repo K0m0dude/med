@@ -56,7 +56,7 @@ diagnosis: |+
   | - Change in size - Change in shape - Change in colour | - Inflammation - Sensory change - Diameter >7mm(unless growth is in the vertical plane) - Crusting or bleeding |
 
 
-  ![melanoma](/media/image_2026-09-23_211108138.png)
+  ![melanoma](https://k0m0dude.github.io/med/media/image_2026-09-23_211108138.png)
 
   - Unexplained weight loss, fatigue, night-sweats, fever, ↓appetite, and DVT can be non-specific signs of cancer. Assess for any additional risk factors, symptoms, signs, and refer accordingly
 
@@ -107,7 +107,7 @@ investigations: |+
   - Basal Cell Carcinoma
     - generally, if a BCC is suspected, a routine referral should be made
 
-treatment: >+
+treatment: >
   - Use a clinical margin of:
     - Consider a clinical margin of at least 0.5 cm when excising stage 0 melanoma.
     - If excision for stage 0 melanoma does not achieve an adequate histological margin, discuss further management with the specialist skin cancer multidisciplinary team.
