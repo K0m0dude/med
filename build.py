@@ -389,6 +389,7 @@ def main():
     (DIST / "assets").mkdir(parents=True)
     shutil.copy(TEMPLATES / "site.css", DIST / "assets" / "site.css")
     shutil.copy(TEMPLATES / "factfile.js", DIST / "assets" / "factfile.js")
+    if (ROOT / "media").exists(): shutil.copytree(ROOT / "media", DIST / "media")
     (DIST / ".nojekyll").write_text("", encoding="utf-8")
 
     page_tpl = (TEMPLATES / "page.html").read_text(encoding="utf-8")
