@@ -13,7 +13,7 @@ pinned: false
 open: false
 background: >+
   - **Type 1 (T1DM):** autoimmune destruction of pancreatic β-cells (anti-GAD,
-  IA-2, ZnT8 antibodies) leading to absolute insulin deficiency. Usually
+  ICA-2, ZnT8 antibodies) leading to absolute insulin deficiency. Usually
   younger, lean, rapid onset. Needs insulin for life. Without insulin,
   unrestrained lipolysis leads to ketogenesis.
 
@@ -136,8 +136,9 @@ investigations: >+
 
   - HbA1c, lipids, urine ACR, foot check, retinal screening status once well.
 
-  - New T1DM: islet autoantibodies and C-peptide if the type is unclear.
-  Pancreatic diabetes: CT or MRI pancreas, faecal elastase.
+  - New T1DM: islet autoantibodies, glutamic acid decarboxylase, Zinc
+  transporter, and C-peptide if the type is unclear. Pancreatic diabetes: CT or
+  MRI pancreas, faecal elastase.
 
 treatment: >+
   ### DKA (JBDS 2021 principles, follow the local integrated care pathway)
