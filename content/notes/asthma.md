@@ -5,7 +5,8 @@ specialty:
   - content/specialties/respiratory-medicine.md
 category: content/categories/respiratory.md
 short: Asthma
-keywords: acute severe asthma peak flow salbutamol magnesium bts sign
+keywords: acute severe asthma peak flow salbutamol magnesium bts sign formoterol
+  AIR MART AIR/MART inhaler
 order: 60
 draft: false
 pinned: false
@@ -59,7 +60,15 @@ diagnosis: >+
   - Differentials: COPD exacerbation, pulmonary oedema, PE, pneumothorax,
   anaphylaxis, upper airway obstruction, vocal cord dysfunction.
 
+
+  - **Chronic “uncontrolled” asthma is defined as**: any exacerbation needing
+  oral corticosteroids, or needing reliever treatment **≥3 days a week**, or
+  waking at night with symptoms.
+
 investigations: >+
+  **Acute presentation:**
+
+
   - **Peak expiratory flow** (compare with personal best or predicted), SpO₂,
   RR, HR, ability to speak.
 
@@ -71,6 +80,22 @@ investigations: >+
 
   - U&E (K⁺ can fall with high-dose salbutamol), FBC, CRP, and theophylline
   level if on it.
+
+
+  **Chronic presentation:**
+
+
+  - Eosinophil count (≥ 300 cells/µL for high risk/ 150-300 for intermediate )or
+  FeNO (≥ 50 ppb/25-49 for intermediate) first.
+
+  - If neither confirms the Dx, bronchodilator reversibility on spirometry
+  (**>12% and >200 mL rise** is positive).
+
+  - if unavailable, 2 weeks of twice-daily PEF (**≥20% variability** is
+  positive).
+
+  - If none of these confirm it but suspicion remains, refer for bronchial
+  challenge testing.
 
 treatment: >+
   - **Oxygen** to keep SpO₂ 94–98%.
@@ -99,9 +124,43 @@ treatment: >+
   2 working days and respiratory clinic within 4 weeks. Assess for psychosocial
   and adherence problems.
 
-  - **Chronic management** follows the 2024 joint BTS/NICE/SIGN guideline:
-  ICS-containing regimens, with an as-needed ICS-formoterol reliever (MART) for
-  most adults instead of a SABA-only reliever.
+
+  **Chronic management follows the 2024 joint BTS/NICE/SIGN guideline:**
+
+
+  - **AIR (anti-inflammatory reliever) therapy**: a low-dose ICS/formoterol
+  inhaler taken **as needed** for symptom relief, with no separate daily
+  maintenance inhaler. This is the **first-line starting point for newly
+  diagnosed, mild asthma**. Only specific licensed products
+  (budesonide/formoterol, in practice) can be used this way — check the product
+  is licensed for AIR use before prescribing it this way.
+
+  - **MART (maintenance and reliever therapy)**: the **same single
+  ICS/formoterol inhaler**, used as a **regular twice-daily maintenance dose**,
+  with additional doses taken as needed for symptoms on top. Patients on MART
+  don’t need a separate reliever.
+
+  - **Starting point depends on symptom burden**: as-needed AIR for most new
+  diagnoses; start at **low-dose MART instead** for a patient who is highly
+  symptomatic at presentation.
+
+  - **Stepping up**: if uncontrolled on as-needed AIR, step up to low-dose MART.
+  If uncontrolled on low-dose MART, step up to **moderate-dose MART**. Beyond
+  that, add-on therapy (LTRA and/or LAMA) is considered, then ICS/LABA/LAMA
+  triple therapy, with specialist referral if still uncontrolled — **no
+  high-dose ICS is used in this pathway**, unlike the old ladder.
+
+  - **Stepping down**: if controlled on ICS alone or low-dose MART, step down to
+  low-dose ICS/formoterol PRN (AIR).
+
+  - **Dry powder inhalers are preferred first-line** (lower carbon footprint
+  than pressurised metered-dose inhalers) where the patient can use one
+  effectively.
+
+  - Every patient needs a **personalised written action plan** matched to
+  whichever pathway they’re on (an AIR plan or a MART plan — not
+  interchangeable), and FeNO can be used at review, and before/after any
+  treatment change, to help judge control objectively.
 
 protocols: >+
   - **BTS/SIGN acute asthma algorithm** and the asthma attack care bundle.
