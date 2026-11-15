@@ -119,7 +119,7 @@ treatment: >+
   bleeding risk is high, in which case use mechanical prophylaxis (intermittent
   pneumatic compression), with regular reassessment.
 
-protocols: >+
+protocols: >
   - **NICE NG158** (VTE diagnosis, management and thrombophilia testing) and the
   local **PE pathway**. **Massive PE** algorithm with critical care and senior
   involvement. **ALS**: thrombosis as a reversible cause.
@@ -132,10 +132,12 @@ protocols: >+
   vitamin K and PCC for warfarin) per local guideline. Check renal function and
   weight before DOAC dosing.
 ---
-## Chronic thromboembolic pulmonary hypertension (CTEPH)
-
-- Persistent breathlessness and exercise limitation months after a PE, from incompletely resolved clot causing pulmonary hypertension.
-- Suspect it in anyone with ongoing dyspnoea at the post-PE follow-up review;
-- investigate with a **V/Q scan** (more sensitive than CTPA for this) and refer to a specialist pulmonary hypertension centre
-- Some cases are treatable with **pulmonary endarterectomy**, balloon pulmonary angioplasty, or targeted pulmonary vasodilator therapy (riociguat).
+> ## Chronic thromboembolic pulmonary hypertension (CTEPH)
+>
+> - Persistent breathlessness and exercise limitation months after a PE, from incompletely resolved clot causing pulmonary hypertension.
+> - Suspect it in anyone with ongoing dyspnoea at the post-PE follow-up review;
+> - investigate with a **V/Q scan** (more sensitive than CTPA for this) and refer to a specialist pulmonary hypertension centre
+> - Some cases are treatable with **pulmonary endarterectomy**, balloon pulmonary angioplasty, or targeted pulmonary vasodilator therapy (riociguat).
+>
+>
 
