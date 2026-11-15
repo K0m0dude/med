@@ -132,3 +132,10 @@ protocols: >+
   vitamin K and PCC for warfarin) per local guideline. Check renal function and
   weight before DOAC dosing.
 ---
+## Chronic thromboembolic pulmonary hypertension (CTEPH)
+
+- Persistent breathlessness and exercise limitation months after a PE, from incompletely resolved clot causing pulmonary hypertension.
+- Suspect it in anyone with ongoing dyspnoea at the post-PE follow-up review;
+- investigate with a **V/Q scan** (more sensitive than CTPA for this) and refer to a specialist pulmonary hypertension centre
+- Some cases are treatable with **pulmonary endarterectomy**, balloon pulmonary angioplasty, or targeted pulmonary vasodilator therapy (riociguat).
+
