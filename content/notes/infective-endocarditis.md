@@ -3,6 +3,7 @@ title: Infective endocarditis
 specialty:
   - content/specialties/acute-medicine.md
   - content/specialties/infectious-diseases.md
+  - content/specialties/cardiology.md
 category: content/categories/infection.md
 short: Infective endocarditis
 keywords: endocarditis duke criteria vegetation osler janeway roth blood
