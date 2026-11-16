@@ -61,6 +61,7 @@ details.cond[open]>summary::after{transform:rotate(-135deg);margin-top:4px}
 .cb li{margin:3px 0}
 .cb li>p{margin:0}
 .cb p{margin:6px 0}
+.cb img{max-width:100%;height:auto;display:block;margin:10px 0;border-radius:4px}
 .k,.w{margin:8px 0;padding:8px 12px;border-radius:4px;font-size:15px}
 .k p,.w p{margin:0}
 .k p+p,.w p+p{margin-top:6px}
