@@ -1,5 +1,5 @@
 ---
-title: Asthma (acute attack)
+title: Asthma (acute and chronic)
 specialty:
   - content/specialties/acute-medicine.md
   - content/specialties/respiratory-medicine.md
@@ -59,7 +59,6 @@ diagnosis: >+
 
   - Differentials: COPD exacerbation, pulmonary oedema, PE, pneumothorax,
   anaphylaxis, upper airway obstruction, vocal cord dysfunction.
-
 
   - **Chronic “uncontrolled” asthma is defined as**: any exacerbation needing
   oral corticosteroids, or needing reliever treatment **≥3 days a week**, or
