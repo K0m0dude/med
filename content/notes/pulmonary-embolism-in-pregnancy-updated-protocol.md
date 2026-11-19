@@ -1,5 +1,5 @@
 ---
-title: Pulmonary embolism in pregnancy updated protocol
+title: Pulmonary embolism in pregnancy protocol
 specialty:
   - content/specialties/quick-access-protocols.md
 category: content/categories/general-acute.md
