@@ -1,5 +1,5 @@
 ---
-title: Major haemorrhage
+title: Major haemorrhage protocol
 specialty:
   - content/specialties/quick-access-protocols.md
 category: content/categories/general-acute.md
